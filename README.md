@@ -17,7 +17,7 @@
 
 **Full-stack engineer & CTO** · Estonia
 
-Building production systems, community tools, and games.
+Building high-quality production systems.
 
 [Portfolio](https://www.r3io.pro/) · [LinkedIn](https://www.linkedin.com/in/reio-vendelin/) · [Email](mailto:Reio.vend@gmail.com)
 
