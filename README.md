@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ReioVen/ReioVen/main/assets/r3io-ascii.gif" alt="R3IO" width="700" />
+`
+██████╗ ██████╗ ██╗ ██████╗
+██╔══██╗╚════██╗██║██╔═══██╗
+██████╔╝ █████╔╝██║██║   ██║
+██╔══██╗ ╚═══██╗██║██║   ██║
+██║  ██║██████╔╝██║╚██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝
+`
 
 **Full-stack engineer & CTO** · Estonia
 
