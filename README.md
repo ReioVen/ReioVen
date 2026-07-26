@@ -23,7 +23,7 @@ Backend-heavy full-stack engineer. I ship web apps end to end, from schema to de
 
 Strong with AI in practice: I use it daily to build faster, fine-tune LLMs, and ship AI features into real products (agents, GraphRAG, interview sims, coaching tools).
 
-CTO at **[Elite Skills](https://www.eliteskills.co/)**. Previously Wisehosting and RevoTech OÜ.
+CTO at **[Elite Skills](https://www.eliteskills.co/)**. Previously **[BrainAOS](https://brainaos.com/)**, Wisehosting, and RevoTech OÜ.
 
 ## Projects
 
