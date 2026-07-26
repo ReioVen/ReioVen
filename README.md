@@ -21,14 +21,16 @@ Building production systems, community tools, and games.
 
 Backend-heavy full-stack engineer. I ship web apps end to end, from schema to deploy.
 
-CTO at **[Elite Skills](https://www.eliteskills.co/)**. Previously Wisehosting, RevoTech OÜ, and lead game dev on Unity/Unreal projects.
+Strong with AI in practice: I use it daily to build faster, fine-tune LLMs, and ship AI features into real products (agents, GraphRAG, interview sims, coaching tools).
+
+CTO at **[Elite Skills](https://www.eliteskills.co/)**. Previously Wisehosting and RevoTech OÜ.
 
 ## Projects
 
 | | |
 |:--|:--|
 | **[EliteSkills](https://www.eliteskills.co/)** | Career platform with coaching, interview sims, recruiting tools |
-| **BrainAOS** | Company knowledge graph (GraphRAG, MCP) |
+| **[BrainAOS](https://brainaos.com/)** | Company knowledge graph (GraphRAG, MCP) |
 | **Kettl** | Marketplace for used cooking oil collection |
 | **SalesBuddy** | Sales coaching with live feedback |
 
@@ -58,5 +60,8 @@ More at [r3io.pro](https://www.r3io.pro/)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Fine--tuning-0c0c0e?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![MCP](https://img.shields.io/badge/MCP-c4b08a?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
