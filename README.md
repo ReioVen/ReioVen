@@ -35,10 +35,10 @@ CTO at **[Elite Skills](https://www.eliteskills.co/)**. Previously **[BrainAOS](
 
 | | |
 |:--|:--|
-| **[EliteSkills](https://www.eliteskills.co/)** | Career platform with coaching, interview sims, recruiting tools |
-| **[BrainAOS](https://brainaos.com/)** | Company knowledge graph (GraphRAG, MCP) |
-| **Kettl** | Marketplace for used cooking oil collection |
-| **SalesBuddy** | Sales coaching with live feedback |
+| **[EliteSkills](https://www.eliteskills.co/)** | AI career platform: coaching, interview sims, and recruiting tools |
+| **[BrainAOS](https://brainaos.com/)** | AI company knowledge graph with GraphRAG and MCP |
+| **Kettl** | Marketplace that streamlines used cooking oil collection |
+| **SalesBuddy** | AI sales coaching with live feedback |
 
 More at [r3io.pro](https://www.r3io.pro/)
 
