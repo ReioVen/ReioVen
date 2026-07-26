@@ -60,10 +60,3 @@ More at [r3io.pro](https://www.r3io.pro/)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
-## Stats
-
-<div align="center">
-  <img height="140" src="https://github-stats-extended.vercel.app/api?username=ReioVen&show_icons=true&theme=transparent&hide_border=true&title_color=c4b08a&icon_color=c4b08a&text_color=ededed&bg_color=0c0c0e" alt="GitHub stats" />
-  <img height="140" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ReioVen&layout=compact&theme=transparent&hide_border=true&title_color=c4b08a&text_color=ededed&bg_color=0c0c0e" alt="Top languages" />
-</div>
