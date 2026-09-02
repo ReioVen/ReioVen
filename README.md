@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-**Founding engineer** &nbsp;Â/&nbsp; Estonia &nbsp;Â/&nbsp; AI agents &amp; full-stack
+**Founding engineer** &nbsp;/&nbsp; Estonia &nbsp;/&nbsp; AI agents &amp; full-stack
 
-[Portfolio](https://www.r3io.pro/) &nbsp;Â/&nbsp; [LinkedIn](https://www.linkedin.com/in/reio-vendelin/) &nbsp;Â/&nbsp; [Email](mailto:Reio.vend@gmail.com)
+[Portfolio](https://www.r3io.pro/) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/reio-vendelin/) &nbsp;/&nbsp; [Email](mailto:Reio.vend@gmail.com)
 
 <br/>
 
