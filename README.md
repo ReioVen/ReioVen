@@ -2,13 +2,12 @@
 
 <img src="./assets/banner-founding.svg" alt="Reio Vendelin - Founding Engineer" width="100%" />
 
-<br/><br/>
+<br/>
 
-**Founding engineer** &nbsp;/&nbsp; Estonia &nbsp;/&nbsp; AI agents &amp; full-stack
+**Founding engineer** / Estonia / AI agents &amp; full-stack  
+[Portfolio](https://www.r3io.pro/) / [LinkedIn](https://www.linkedin.com/in/reio-vendelin/) / [Email](mailto:Reio.vend@gmail.com)
 
-[Portfolio](https://www.r3io.pro/) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/reio-vendelin/) &nbsp;/&nbsp; [Email](mailto:Reio.vend@gmail.com)
-
-<br/><br/>
+<br/>
 
 ### Selected work
 
