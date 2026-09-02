@@ -8,10 +8,6 @@
 
 [Portfolio](https://www.r3io.pro/) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/reio-vendelin/) &nbsp;/&nbsp; [Email](mailto:Reio.vend@gmail.com)
 
-<br/>
-
-<img src="./assets/journey.svg" alt="Idea to Build to Ship to Production" width="100%" />
-
 <br/><br/>
 
 ### Selected work
@@ -43,14 +39,11 @@
   </tr>
 </table>
 
-<br/>
-
-<img src="./assets/stack-strip.svg" alt="Stack: TypeScript Node React AI Agents Shopify Twilio MongoDB GraphRAG MCP" width="100%" />
-
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReioVen&show_icons=true&theme=transparent&hide_border=true&title_color=9fd67a&icon_color=9fd67a&text_color=8d9688&bg_color=0a0d0b" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReioVen&layout=compact&theme=transparent&hide_border=true&title_color=9fd67a&text_color=8d9688&bg_color=0a0d0b" height="165" alt="Top languages" />
+### Stack
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,cpp,cs,php,mongodb,postgres,redis,mysql,docker,vercel,git,unity,tailwind,express,fastapi&perline=10" alt="Tech stack" />
 
 <br/><br/>
 

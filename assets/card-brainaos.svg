@@ -12,7 +12,7 @@
   <rect width="580" height="220" rx="18" fill="url(#bg)"/>
   <rect x="1" y="1" width="578" height="218" rx="17" fill="none" stroke="#ffffff" stroke-opacity="0.1"/>
   <rect x="0" y="0" width="8" height="220" rx="4" fill="url(#accent)"/>
-  <text x="36" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9fd67a">03 / AGENTS</text>
+  <text x="36" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9fd67a">03 / CTO</text>
   <text x="36" y="98" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="32" font-weight="700" fill="#eef2ea">BrainAOS</text>
   <text x="36" y="136" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#8d9688">Company knowledge graph with GraphRAG</text>
   <text x="36" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#b5e694">GraphRAG / MCP / cited answers</text>
