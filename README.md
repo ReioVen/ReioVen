@@ -43,7 +43,7 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,cpp,cs,php,mongodb,postgres,redis,mysql,docker,vercel,git,unity,tailwind,express,fastapi&perline=10" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,java,cpp,cs,php,mongodb,postgres,redis,mysql,docker,vercel,git,unity,tailwind,express&perline=10" alt="Tech stack" />
 
 <br/><br/>
 
