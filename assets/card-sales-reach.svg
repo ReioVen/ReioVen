@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="220" viewBox="0 0 580 220" role="img" aria-label="Sales-Reach">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121812"/>
+      <stop offset="100%" stop-color="#0a0d0b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aab8f"/>
+      <stop offset="100%" stop-color="#9fd67a"/>
+    </linearGradient>
+  </defs>
+  <rect width="580" height="220" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="578" height="218" rx="17" fill="none" stroke="#9fd67a" stroke-opacity="0.25"/>
+  <rect x="0" y="0" width="8" height="220" rx="4" fill="url(#accent)"/>
+  <text x="36" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#9fd67a">01 / FOUNDING</text>
+  <text x="36" y="98" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="32" font-weight="700" fill="#eef2ea">Sales-Reach</text>
+  <text x="36" y="136" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#8d9688">Shopify AI sales agents over SMS/WhatsApp</text>
+  <text x="36" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#b5e694">admin / messaging / billing / compliance</text>
+</svg>

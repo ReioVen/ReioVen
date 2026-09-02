@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Idea to production">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0d0b"/>
+      <stop offset="100%" stop-color="#121812"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3d5c4a"/>
+      <stop offset="50%" stop-color="#9fd67a"/>
+      <stop offset="100%" stop-color="#b5e694"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="200" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="198" rx="19" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <line x1="150" y1="88" x2="1050" y2="88" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Idea -->
+  <circle cx="180" cy="88" r="18" fill="#0a0d0b" stroke="#9fd67a" stroke-width="3"/>
+  <circle cx="180" cy="88" r="7" fill="#9fd67a"/>
+  <text x="180" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#eef2ea">Idea</text>
+  <text x="180" y="164" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8d9688">scope &amp; shape</text>
+
+  <!-- Build -->
+  <circle cx="460" cy="88" r="18" fill="#0a0d0b" stroke="#9fd67a" stroke-width="3"/>
+  <circle cx="460" cy="88" r="7" fill="#9fd67a"/>
+  <text x="460" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#eef2ea">Build</text>
+  <text x="460" y="164" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8d9688">agents &amp; systems</text>
+
+  <!-- Ship -->
+  <circle cx="740" cy="88" r="18" fill="#0a0d0b" stroke="#9fd67a" stroke-width="3"/>
+  <circle cx="740" cy="88" r="7" fill="#9fd67a"/>
+  <text x="740" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#eef2ea">Ship</text>
+  <text x="740" y="164" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8d9688">launch &amp; iterate</text>
+
+  <!-- Production -->
+  <circle cx="1020" cy="88" r="18" fill="#9fd67a"/>
+  <circle cx="1020" cy="88" r="7" fill="#0a0d0b"/>
+  <text x="1020" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" font-weight="700" fill="#eef2ea">Production</text>
+  <text x="1020" y="164" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8d9688">real users</text>
+</svg>

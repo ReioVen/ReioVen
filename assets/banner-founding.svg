@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Reio Vendelin - Founding Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d0b"/>
+      <stop offset="55%" stop-color="#101612"/>
+      <stop offset="100%" stop-color="#0c110e"/>
+    </linearGradient>
+    <linearGradient id="mint" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aab8f"/>
+      <stop offset="50%" stop-color="#9fd67a"/>
+      <stop offset="100%" stop-color="#b5e694"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="78%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#9fd67a" stop-opacity="0.28"/>
+      <stop offset="55%" stop-color="#9fd67a" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#0a0d0b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="18%" cy="80%" r="40%">
+      <stop offset="0%" stop-color="#3d5c4a" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0a0d0b" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#9fd67a" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#glow2)"/>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="22.5" fill="none" stroke="#9fd67a" stroke-opacity="0.2" stroke-width="1.5"/>
+
+  <circle cx="980" cy="90" r="3" fill="#9fd67a" opacity="0.7"/>
+  <circle cx="1040" cy="140" r="2" fill="#9fd67a" opacity="0.45"/>
+  <circle cx="920" cy="200" r="2.5" fill="#9fd67a" opacity="0.35"/>
+  <circle cx="1100" cy="220" r="2" fill="#9fd67a" opacity="0.5"/>
+
+  <text x="64" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="4" fill="#9fd67a">R3IO.PRO</text>
+
+  <text x="64" y="188" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="64" font-weight="700" fill="#eef2ea">Founding Engineer</text>
+  <text x="64" y="240" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="28" font-weight="500" fill="#8d9688">Idea to production. AI agents &amp; full-stack products.</text>
+
+  <rect x="64" y="278" width="220" height="36" rx="18" fill="#9fd67a"/>
+  <text x="174" y="301" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="1" fill="#0a0d0b">SHIPPED IN PRODUCTION</text>
+</svg>

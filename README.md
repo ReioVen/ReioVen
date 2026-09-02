@@ -1,73 +1,59 @@
 <div align="center">
 
-```
- ★        ✦        ✶        ·        .        ★        ✦        ·        ✶        .        ★        ✦         
-     ·        .        ★        ✦        ·        ✶        .        ★        ✦        ✶        ·        .     
-✦        ✶        ·        .        ★        ✦        ·        ✶        .        ★        ✦        ✶        · 
-    .        ★        ✦        ·        ✶        .        ★        ✦        ✶        ·        .        ★      
- ★     ✦     ✶     ·     .     ★     ✦   ██████╗ ██████╗ ██╗ ██████╗   ✶     ·     .     ★     ✦     ·     ✶  
-  ✦     ✶     ·     .     ★     ✦     ·  ██╔══██╗╚════██╗██║██╔═══██╗   ·     .     ★     ✦     ·     ✶     . 
-   ✶     ·     .     ★     ✦     ·       ██████╔╝ █████╔╝██║██║   ██║ .     ★     ✦     ·     ✶     .     ★   
- ·     .     ★     ✦     ·     ✶     .   ██╔══██╗ ╚═══██╗██║██║   ██║  ★     ✦     ·     ✶     .     ★     ✦  
-  .     ★     ✦     ·     ✶     .     ★ ██║  ██║ ██████╔╝██║╚██████╔╝   ✦     ·     ✶     .     ★     ✦     ✶ 
-   ★     ✦     ·     ✶     .     ★      ╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝  ·     ✶     .     ★     ✦     ✶     ·   
-  ✶        ·        .        ★        ✦        ·        ✶        .        ★        ✦        ✶        ·        
-      ★        ✦        ✶        ·        .        ★        ✦        ·        ✶        .        ★        ✦    
-```
+<img src="./assets/banner-founding.svg" alt="Reio Vendelin - Founding Engineer" width="100%" />
 
-**Full-stack engineer & CTO** · Estonia
+<br/><br/>
 
-Building high-quality production systems.
+**Founding engineer** &nbsp;�/&nbsp; Estonia &nbsp;�/&nbsp; AI agents &amp; full-stack
 
-[Portfolio](https://www.r3io.pro/) · [LinkedIn](https://www.linkedin.com/in/reio-vendelin/) · [Email](mailto:Reio.vend@gmail.com)
+[Portfolio](https://www.r3io.pro/) &nbsp;�/&nbsp; [LinkedIn](https://www.linkedin.com/in/reio-vendelin/) &nbsp;�/&nbsp; [Email](mailto:Reio.vend@gmail.com)
 
-</div>
+<br/>
 
-## About
+<img src="./assets/journey.svg" alt="Idea to Build to Ship to Production" width="100%" />
 
-Backend-heavy full-stack engineer. I ship web apps end to end, from schema to deploy.
+<br/><br/>
 
-Strong with AI in practice: I use it daily to build faster, fine-tune LLMs, and ship AI features into real products (agents, GraphRAG, interview sims, coaching tools).
+### Selected work
 
-CTO at **[Elite Skills](https://www.eliteskills.co/)**. Previously **[BrainAOS](https://brainaos.com/)**, Wisehosting, and RevoTech OÜ.
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.r3io.pro/#projects/sales-reach">
+        <img src="./assets/card-sales-reach.svg" alt="Sales-Reach" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://www.eliteskills.co/">
+        <img src="./assets/card-eliteskills.svg" alt="EliteSkills" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://www.r3io.pro/#projects/brain-aos">
+        <img src="./assets/card-brainaos.svg" alt="BrainAOS" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://www.r3io.pro/#projects/salesbuddy">
+        <img src="./assets/card-salesbuddy.svg" alt="SalesBuddy" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Projects
+<br/>
 
-| | |
-|:--|:--|
-| **[EliteSkills](https://www.eliteskills.co/)** | AI career platform: coaching, interview sims, and recruiting tools |
-| **[BrainAOS](https://brainaos.com/)** | AI company knowledge graph with GraphRAG and MCP |
-| **Kettl** | Marketplace that streamlines used cooking oil collection |
-| **SalesBuddy** | AI sales coaching with live feedback |
+<img src="./assets/stack-strip.svg" alt="Stack: TypeScript Node React AI Agents Shopify Twilio MongoDB GraphRAG MCP" width="100%" />
 
-More at [r3io.pro](https://www.r3io.pro/)
+<br/><br/>
 
-## Stack
+<img src="https://github-readme-stats.vercel.app/api?username=ReioVen&show_icons=true&theme=transparent&hide_border=true&title_color=9fd67a&icon_color=9fd67a&text_color=8d9688&bg_color=0a0d0b" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReioVen&layout=compact&theme=transparent&hide_border=true&title_color=9fd67a&text_color=8d9688&bg_color=0a0d0b" height="165" alt="Top languages" />
 
-<div align="center">
+<br/><br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Fine--tuning-0c0c0e?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![MCP](https://img.shields.io/badge/MCP-c4b08a?style=flat-square&logo=anthropic&logoColor=white)
+<sub>More at <a href="https://www.r3io.pro/">r3io.pro</a></sub>
 
 </div>

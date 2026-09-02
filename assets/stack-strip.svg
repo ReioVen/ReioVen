@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Stack">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a0d0b"/>
+      <stop offset="100%" stop-color="#121812"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="118" rx="15" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+
+  <text x="48" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8d9688">TypeScript</text>
+  <text x="210" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#9fd67a">Node</text>
+  <text x="310" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8d9688">React</text>
+  <text x="420" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#9fd67a">AI Agents</text>
+  <text x="570" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8d9688">Shopify</text>
+  <text x="700" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#9fd67a">Twilio</text>
+  <text x="820" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8d9688">MongoDB</text>
+  <text x="960" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#9fd67a">GraphRAG</text>
+  <text x="1100" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#8d9688">MCP</text>
+</svg>
