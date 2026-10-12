@@ -12,24 +12,24 @@
   <tr>
     <td width="50%">
       <a href="https://www.r3io.pro/#projects/sales-reach">
-        <img src="./assets/card-sales-reach.svg" alt="Sales-Reach: Shopify AI sales agents over SMS and WhatsApp" width="100%" />
+        <img src="./assets/card-sales-reach-win98.svg" alt="Sales-Reach: Shopify AI sales agents over SMS and WhatsApp" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://www.eliteskills.co/">
-        <img src="./assets/card-eliteskills.svg" alt="EliteSkills: AI-first career platform, built as CTO" width="100%" />
+        <img src="./assets/card-eliteskills-win98.svg" alt="EliteSkills: AI-first career platform, built as CTO" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://www.r3io.pro/#projects/brain-aos">
-        <img src="./assets/card-brainaos.svg" alt="BrainAOS: company knowledge graph for teams and AI agents" width="100%" />
+        <img src="./assets/card-brainaos-win98.svg" alt="BrainAOS: company knowledge graph for teams and AI agents" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://www.r3io.pro/#projects/salesbuddy">
-        <img src="./assets/card-salesbuddy.svg" alt="SalesBuddy: AI sales roleplay with live coaching" width="100%" />
+        <img src="./assets/card-salesbuddy-win98.svg" alt="SalesBuddy: AI sales roleplay with live coaching" width="100%" />
       </a>
     </td>
   </tr>
